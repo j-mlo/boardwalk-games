@@ -104,9 +104,9 @@ h2 {
 }
 
 .student-discount {
-    background-color: var(--highlight-color);
+    background-color: var(--highlight-colour);
     font-weight: bold;
-    color: red;
+    color: white;
     display: block;
     max-width: 300px;
     margin: auto;
