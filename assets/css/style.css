@@ -93,6 +93,13 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
+/* Events section */
+
+#student-discount {
+    background-color: var(--highlight-colour);
+    color: white;
+}
+
 /* Game Library cards */
 
 #new-games .card,
